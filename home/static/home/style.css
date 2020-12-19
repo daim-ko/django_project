@@ -1,0 +1,16 @@
+body{
+    background:seagreen url("images/window.png")no-repeat;
+    background-position: center bottom;
+    background-size: 30%;
+    height:500px;
+    border-top:10px solid #ccc;
+}
+
+title{
+    color: #c80;
+    font-weight: bold;
+}
+
+li a{
+    color:darkorange;
+}

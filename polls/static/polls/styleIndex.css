@@ -1,0 +1,11 @@
+body{
+    background:white url("images/buble.jpg")no-repeat;
+    background-color: greenyellow;
+    background-position: revert;
+    background-size: cover;
+}
+
+li a{
+
+    color:black;
+}
